@@ -1,6 +1,6 @@
 # Shyn
 
-**'code with love'**
+** `Developer`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
