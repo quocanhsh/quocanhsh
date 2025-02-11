@@ -2,10 +2,9 @@
 
 **`Developer/Graphic Designer`**
 
-Most of my projects are done on Roblox Studio and Unity, i myself a SFX maker, Graphic Designer and i love anime! <3
+Hi, i code sometimes
 
 ### 🌐 Socials:
-
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/266172141047775242)
 
 # 💻 Tech Stack:
