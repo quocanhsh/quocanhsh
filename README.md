@@ -10,7 +10,6 @@
 ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quocanhsh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quocanhsh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ---
 
