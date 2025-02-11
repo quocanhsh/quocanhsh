@@ -1,11 +1,6 @@
-# Shyn
+# 🎀 Shyn
 
 `Developer/Graphic Designer`
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat&label=Profile+Views:+5000)
-
-I am truly a nerd, all that i can say.
-
 
 ## 🌐 Socials:
 
