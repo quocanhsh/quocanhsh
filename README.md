@@ -1,19 +1,15 @@
 # Shyn
 
-** `Developer`**
+`Developer/Graphic Designer`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+I am truly a nerd, all that i can say.
+
 
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/266172141047775242)
-
-## 🚀 About Me
-
-- 🎯 Passionate about **[Your Interests, e.g., Game Development, AI, Web Development]**
-- 🎓 Currently learning **[What you're learning, e.g., Unity, React, Machine Learning]**
-- 💡 Always exploring new technologies and improving my skills
-- 🎮 Love playing & developing games
 
 ## 🛠️ Tech Stack
 
