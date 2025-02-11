@@ -1,4 +1,6 @@
-### Hi there, I'm [Your Name] 👋
+### Shyn
+
+**'code with love'**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
