@@ -1,8 +1,5 @@
 # 🎀 Shyn
-
 **`Developer/Graphic Designer`**
-
-Hi, i code sometimes
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/266172141047775242)
